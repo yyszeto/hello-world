@@ -1,2 +1,2 @@
 # hello-world
-First repository to store ideas
+A biologist wants to learn programming
